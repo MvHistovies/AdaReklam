@@ -133,7 +133,6 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 ## 📞 Destek
 
 - **Discord:** [Sunucuya Katıl](https://discord.gg/w9fDrWRc)
-- **Issues:** [GitHub Issues](https://github.com/YOURUSERNAME/AdalReklam/issues)
 
 ---
 
