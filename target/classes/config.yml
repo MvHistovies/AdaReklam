@@ -1,0 +1,50 @@
+economy:
+  enabled: true
+
+# Reklam fiyatları (Vault ekonomi)
+prices:
+  discord-webhook: 300000
+  chat-reklam: 150000
+  bossbar-reklam: 200000
+
+# Discord Webhook ayarları
+discord:
+  webhook-url: "https://discord.com/api/webhooks/YOUR_WEBHOOK_URL_HERE"
+  enabled: true
+  embed-color: 5814783  # Altın rengi
+  footer-text: "Ada Reklam Sistemi"
+
+# Chat reklam ayarları
+advertisements:
+  chat:
+    prefix: "&6&l[REKLAM] &r"
+    cooldown: 3600  # saniye (1 saat)
+    broadcast-format: "&6&l[REKLAM] &r&f{message} &8- &7{player}"
+    # NOT: {player} kısmına tıklandığında "/is warp (oyuncu)" komutu chat'e yazılır
+
+  bossbar:
+    duration: 30  # saniye
+    color: "YELLOW"  # BLUE, GREEN, PINK, PURPLE, RED, WHITE, YELLOW
+    style: "SOLID"   # SOLID, SEGMENTED_6, SEGMENTED_10, SEGMENTED_12, SEGMENTED_20
+    format: "&6&lREKLAM: &r&f{message} &8(&7{player}&8)"
+
+# Log sistemi
+logging:
+  enabled: true
+  file: "advertisements.log"
+  detailed: true
+
+# Güvenlik ve limitler
+limits:
+  max-message-length: 100
+  min-message-length: 5
+  cooldown-bypass-permission: "adalreklam.bypass.cooldown"
+
+# GUI ayarları
+gui:
+  main-menu:
+    title: "&6&lReklam Satın Al"
+    size: 27  # 9, 18, 27, 36, 45, 54
+  confirm-menu:
+    title: "&a&lReklamı Onayla"
+    size: 27
