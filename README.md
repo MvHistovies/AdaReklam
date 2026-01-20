@@ -97,10 +97,10 @@ target/AdalReklam-1.0.0.jar
 ![Ana Menü](https://i.imgur.com/RwRTnLw.png)
 
 ### Chat Reklam
-![Chat Reklam](https://i.imgur.com/screenshot2.png)
+![Chat Reklam](https://i.imgur.com/Wj2Rkic.png)
 
 ### Discord Webhook
-![Discord](https://i.imgur.com/screenshot3.png)
+![Discord](https://i.imgur.com/foXOHsb.png)
 
 ## 🤝 Katkıda Bulunma
 
@@ -132,10 +132,9 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📞 Destek
 
-- **Discord:** [Sunucuya Katıl](https://discord.gg/yourserver)
+- **Discord:** [Sunucuya Katıl](https://discord.gg/w9fDrWRc)
 - **Issues:** [GitHub Issues](https://github.com/YOURUSERNAME/AdalReklam/issues)
-- **Wiki:** [Documentation](https://github.com/YOURUSERNAME/AdalReklam/wiki)
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/YOURUSERNAME)**
+**Made with ❤️ by [MvHistovies](https://github.com/MvHistovies)**
