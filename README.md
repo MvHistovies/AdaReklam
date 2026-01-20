@@ -94,7 +94,7 @@ target/AdalReklam-1.0.0.jar
 ## 📸 Ekran Görüntüleri
 
 ### Ana Menü
-![Ana Menü](https://i.imgur.com/screenshot1.png)
+![Ana Menü](https://i.imgur.com/RwRTnLw.png)
 
 ### Chat Reklam
 ![Chat Reklam](https://i.imgur.com/screenshot2.png)
