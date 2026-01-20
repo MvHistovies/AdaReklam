@@ -7,7 +7,7 @@
 
 Discord Webhook destekli profesyonel Minecraft reklam sistemi.
 
-![Banner](https://i.imgur.com/your-banner.png)
+![Banner]([img]https://i.imgur.com/0z8EcWo.png[/img])
 
 ## ✨ Özellikler
 
