@@ -28,7 +28,7 @@ Discord Webhook destekli profesyonel Minecraft reklam sistemi.
 - Bir ekonomi plugini (EssentialsX, CMI, vb.)
 
 ### Adımlar
-1. [Releases](https://github.com/YOURUSERNAME/AdalReklam/releases) sayfasından en son versiyonu indirin
+1. [Releases](https://github.com/MvHistovies/AdalReklam/releases) sayfasından en son versiyonu indirin
 2. `AdalReklam-x.x.x.jar` dosyasını `plugins/` klasörüne atın
 3. Sunucuyu başlatın
 4. `plugins/AdalReklam/config.yml` dosyasını düzenleyin
