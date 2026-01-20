@@ -17,6 +17,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MvHistovies/AdaReklam.git",
+    "accountId": "bdc3c820-6f43-4130-9bcd-034cd2abb5b8"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -31,6 +40,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768869577842</updated>
       <workItem from="1768869578740" duration="2899000" />
-      <workItem from="1768921589952" duration="3326000" />
+      <workItem from="1768921589952" duration="3663000" />
     </task>
     <servers />
   </component>
